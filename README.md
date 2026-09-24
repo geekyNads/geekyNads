@@ -3,7 +3,6 @@
 
 # Hey, I'm [GeekyNads](https://geekynads.github.io/Portfolio/) 👋
 
-![streak](https://streak-line-three.vercel.app/badge/geekyNads)
 
 **Builder • Problem Solver • Founder • Dreamer**
 
