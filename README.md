@@ -12,7 +12,7 @@
 </div>
 
 ---
-## One of my projects lets 🫵 u add this type of streak image add your own https://streak-line-three.vercel.app
+## One of my projects lets 🫵 u add your streak image. add your own https://streak-line-three.vercel.app
 <div align="center">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geekyNads&rank_icon=percentile&include_all_commits=true&theme=transparent)
