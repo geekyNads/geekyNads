@@ -14,8 +14,7 @@
 ---
 ## One of my projects lets 🫵 u add this type of streak image add your own https://streak-line-three.vercel.app
 <div align="center">
-  
-![streakline](https://streak-line-three.vercel.app/card/geekyNads?theme=light)
+
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geekyNads&rank_icon=percentile&include_all_commits=true&theme=transparent)
 </div>
 
