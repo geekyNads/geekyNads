@@ -2,6 +2,7 @@
 <div align="center">
 
 # Hey, I'm [GeekyNads](https://geekynads.github.io/Portfolio/) 👋
+# Co-Founder of Verseoid
 
 
 **Builder • Problem Solver • Founder • Dreamer**
