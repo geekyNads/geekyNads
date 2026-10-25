@@ -5,8 +5,7 @@
 ## Founder of Dealfeed
 ### Co-Founder of Verseoid
 
-
-**Builder • Problem Solver • Founder • Dreamer**
+**Builder • Open Source • AI • Founder**
 
 
 `Student • Builder • Founder • Problem Solver • Hacker`
