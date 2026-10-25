@@ -2,7 +2,7 @@
 <div align="center">
 
 # Hey, I'm [GeekyNads](https://likhitgeekynads.vercel.app/) 👋
-## Founder of Dealfeed
+## Founder of [Dealfeed](dealfeed.tech)
 ### Co-Founder of Verseoid
 
 **Builder • Open Source • AI • Founder**
