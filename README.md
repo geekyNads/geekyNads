@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm [GeekyNads](https://geekynads.github.io/Portfolio/) 👋
+# Hey, I'm [GeekyNads](https://likhitnads.vercel.app/) 👋
 ## Founder of Dealfeed
 ### Co-Founder of Verseoid
 
@@ -47,7 +47,7 @@ idea → code → product → reality
 
 ## Connect
 
-[Portfolio](https://geekynads.github.io/portfolio/) • [X](https://x.com/M_Likhit_Naidu)
+[Portfolio](https://likhitnads.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
 
 ---
 <div align="center">
