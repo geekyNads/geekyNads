@@ -3,7 +3,7 @@
 
 # Hey, I'm [GeekyNads](https://likhitgeekynads.vercel.app/) 👋
 ## Founder of [Dealfeed](dealfeed.tech)
-### Co-Founder of Verseoid
+### Co-Founder of Verseoid (closed)
 
 **Builder • Open Source • AI • Founder**
 
