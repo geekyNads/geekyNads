@@ -5,7 +5,6 @@
 ## Founder of [Dealfeed](dealfeed.tech)
 ### Co-Founder of Verseoid (closed)
 **Builder • Open Source • AI • Founder**
-`Student • Builder • Founder • Problem Solver • Hacker`
 
 </div>
 
