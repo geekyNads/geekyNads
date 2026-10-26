@@ -16,17 +16,6 @@
 
 ---
 
-## `$ whoami`
-
-I'm a student focused on **AI systems, quant dev, and full-stack engineering**.
-I used to do everything with AI. Now I'm having second thoughts. 😶‍🌫️
-
-```text
-idea → code → product → reality
-````
-
----
-
 <div align="center">
 <h1>Sahi hai Tera.</h1>
 </div>
