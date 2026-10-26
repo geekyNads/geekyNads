@@ -27,11 +27,6 @@ idea → code → product → reality
 
 ---
 
-## Connect
-
-[Portfolio](https://likhitgeekynads.vercel.app/) • [X](https://x.com/M_Likhit_Naidu)
-
----
 <div align="center">
 <h1>Sahi hai Tera.</h1>
 </div>
