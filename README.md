@@ -4,16 +4,12 @@
 # Hey, I'm [GeekyNads](https://likhitgeekynads.vercel.app/) 👋
 ## Founder of [Dealfeed](dealfeed.tech)
 ### Co-Founder of Verseoid (closed)
-
 **Builder • Open Source • AI • Founder**
-
-
 `Student • Builder • Founder • Problem Solver • Hacker`
 
 </div>
 
 ---
-## One of my projects lets 🫵 u add your streak image. add your own https://streak-line-three.vercel.app
 <div align="center">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=geekyNads&rank_icon=percentile&include_all_commits=true&theme=transparent)
@@ -29,18 +25,6 @@ I used to do everything with AI. Now I'm having second thoughts. 😶‍🌫️
 ```text
 idea → code → product → reality
 ````
-
-
----
-
-## Focus
-
-* **AI / Agents**
-* **Quant Dev**
-* **Systems & DevOps**
-* **Full Stack**
-* **Algorithms & System Design**
-
 
 ---
 
