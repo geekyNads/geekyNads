@@ -1,4 +1,4 @@
-<img src="portrait.svg" align="left" width="400" height="400" alt="ASCII portrait of GeekyNads">
+<img src="portrait.svg" align="left" width="500" height="500" alt="ASCII portrait of GeekyNads">
 
 <pre>
   ____           _          _   _           _     
